@@ -1,0 +1,21 @@
+{
+  "name": "weather_digest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-git-19/weather_digest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Victor-git-19/weather_digest/issues"
+  },
+  "homepage": "https://github.com/Victor-git-19/weather_digest#readme"
+}
